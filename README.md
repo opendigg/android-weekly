@@ -1,6 +1,7 @@
 # android-weekly
 安卓开源周报<br />
 该周报由OpenDigg创建并持续维护更新，每周二会发布上一周收录的最新的优质的开源项目库。<br />
+[4月19日](https://github.com/opendigg/android-weekly/issues/19)<br />
 [4月11日](https://github.com/opendigg/android-weekly/issues/18)<br />
 [4月5日](https://github.com/opendigg/android-weekly/issues/17)<br />
 [3月29日](https://github.com/opendigg/android-weekly/issues/16)<br />
